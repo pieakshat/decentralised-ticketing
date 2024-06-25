@@ -1,4 +1,4 @@
-this smart contract simulates a ticketing event that organises sale of ticket 
+this smart contract organises sale of tickets for any event 
 
 play around with it on remix
 
